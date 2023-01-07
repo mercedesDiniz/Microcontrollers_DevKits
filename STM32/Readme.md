@@ -8,8 +8,8 @@ Este repositório concentra todo o material e pesquisa para auxiliar futuras imp
 - Datasheets e Esquematico: em /docs
 
 ## Pinout:
-![BluePill](STM32/docs/BluePill_Pinout.png)
-![BlackPill](STM32/docs/BlackPill_Pinout.png)
+![BluePill](docs/BluePill_Pinout.png)
+![BlackPill](docs/BlackPill_Pinout.png)
 
 [Footprints, Symbols e Pachges 3D (p/ o Kicad)](https://github.com/yet-another-average-joe/Kicad-STM32)
 
