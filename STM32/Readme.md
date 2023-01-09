@@ -43,6 +43,8 @@ Este repositório concentra todo o material e pesquisa para auxiliar futuras imp
 
 
 ## Introdução
+
+- [Ebook-Filipeflop](https://www.filipeflop.com/img/files/download/Descobrindo%20o%20STM32.pdf)
 - [Conhecendo o STM32 ou Bluepill](https://www.curtocircuito.com.br/blog/arm/conhecendo-o-bluepill-stm32)
 
 - [Tutorial DEEPBLUE MBEDDED](https://deepbluembedded-com.translate.goog/stm32-arm-programming-tutorials/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc)
