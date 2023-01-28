@@ -69,8 +69,9 @@ Este repositório concentra todo o material e pesquisa para auxiliar futuras imp
 - [Exemplo 02 - HAL (biblioteca do STM32Cube IDE)](https://deepbluembedded-com.translate.goog/stm32-timer-interrupt-hal-example-timer-mode-lab/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc)
 
 ## Comunicação SPI - Card SD
-- [Biblioteca stm32duino/STM32SD](https://github.com/stm32duino/STM32SD)
-- [Biblioteca stm32duino/FatFs](https://github.com/stm32duino/FatFs)
+- [stm32duino/STM32SD library](https://www.arduinolibraries.info/libraries/stm32duino-stm32-sd)
+- [stm32duino/FatFs library](https://github.com/stm32duino/FatFs)
+-[How to use SD card with stm32 and SdFat library](https://www.mischianti.org/2022/10/24/how-to-use-sd-card-with-stm32-and-sdfat-library/)
 - [SD CARD using SPI in STM32 || Cube-IDE || File handling || uart](https://www.youtube.com/watch?v=spVIZO-jbxE) 
 - [STM32CubeIDE SD CARD. SPI with STM32F103C8T6](https://www.youtube.com/watch?v=aqSNz26Cuio&ab_channel=MicroPetabyNizarMohideen), [doc](https://www.micropeta.com/video29)
 

@@ -20,3 +20,7 @@ Este repositório concentra todo o material e pesquisa para auxiliar futuras imp
 
 - [Python JSON – Como converter uma string para JSON](https://www-freecodecamp-org.translate.goog/news/python-json-how-to-convert-a-string-to-json/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc)
 
+## Comunicação SPI - Card SD
+- [SdFat library](https://www.arduinolibraries.info/libraries/sd-fat)
+- [FatFs library](https://www.arduinolibraries.info/libraries/fat-fs)
+- [SD library](https://www.arduinolibraries.info/libraries/sd)
