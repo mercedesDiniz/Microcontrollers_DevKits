@@ -6,8 +6,8 @@ Este repositório concentra todo o material e pesquisa para auxiliar futuras imp
 - Datasheets e Esquematico: em /docs
 
 ## Pinout:
-![ESP32 DevkitC-V4](ESP32/docs/esp32-devkitC-v4-pinout.png)
-![ESP32 Devkit-V1](ESP32/docs/esp32-devkit-v1-pinout.png)
+![ESP32 DevkitC-V4](docs/esp32-devkitC-v4-pinout.png)
+![ESP32 Devkit-V1](docs/esp32-devkit-v1-pinout.png)
 
 # Exemplos e Tutoriais:
 ## Configurando a IDE

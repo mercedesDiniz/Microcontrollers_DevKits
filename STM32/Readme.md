@@ -8,8 +8,8 @@ Este repositório concentra todo o material e pesquisa para auxiliar futuras imp
 - Datasheets e Esquematico: em /docs
 
 ## Pinout:
-![BluePill](STM32/docs/BluePill_Pinout.png)
-![BlackPill](STM32/docs/BlackPill_Pinout.png)
+![BluePill](docs/BluePill_Pinout.png)
+![BlackPill](docs/BlackPill_Pinout.png)
 
 [Footprints, Symbols e Pachges 3D (p/ o Kicad)](https://github.com/yet-another-average-joe/Kicad-STM32)
 
@@ -43,6 +43,8 @@ Este repositório concentra todo o material e pesquisa para auxiliar futuras imp
 
 
 ## Introdução
+
+- [Ebook-Filipeflop](https://www.filipeflop.com/img/files/download/Descobrindo%20o%20STM32.pdf)
 - [Conhecendo o STM32 ou Bluepill](https://www.curtocircuito.com.br/blog/arm/conhecendo-o-bluepill-stm32)
 
 - [Tutorial DEEPBLUE MBEDDED](https://deepbluembedded-com.translate.goog/stm32-arm-programming-tutorials/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc)

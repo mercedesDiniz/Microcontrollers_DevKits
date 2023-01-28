@@ -6,7 +6,7 @@ Este repositório concentra todo o material e pesquisa para auxiliar futuras imp
 - Datasheets e Esquematico: em /docs
 
 ## Pinout:
-![Arduino UNO Rev3](Arduino/docs/ArduinoUNO-Rev3_Pinout.png)
+![Arduino UNO Rev3](docs/ArduinoUNO-Rev3_Pinout.png)
 
 - [Footprints, Symbols e Pachges 3D (p/ o Kicad)](https://github.com/Alarm-Siren/arduino-kicad-library)
 
