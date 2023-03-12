@@ -28,16 +28,25 @@ Este repositório concentra todo o material e pesquisa para auxiliar futuras imp
     2. Instalação:
         -   Windows: apenas siga os passos do instalador
         -   Linux (Ubuntu/Mint):
-        > 1. Extraia o conteúdo do arquivo baixado usando e navegue até o diretório recém-criado usando os seguintes comandos:
+        > 1. Extraia o conteúdo do arquivo baixado (/home/name_user/Downloads) e mova até o diretório /opt/STMicroelectronics (crie se necessario), usando os seguintes comandos:
          ~~~bash
-        tar xvf en.stm32cubeprog-*.tar.gz
-        cd en.stm32cubeprog_v*
+        cd /opt
+        mkdir STMicroelectronics
+
+        cd /home/name_user/Downloads
+        tar xvf en.stm32cubeprog-*.tar.gz 
+        sudo mv en.stm32cubeprog-* /opt/STMicroelectronics
         ~~~
-        > 2. Execute o arquivo de instalação usando o comando abaixo e depois siga as instruções na tela para concluir a instalação.
+        > 2. Crie um link simbólico do arquivo "STM32CubeProgrammer" para o diretório "/usr/local/bin/".
         ~~~bash
+        sudo ln -s /opt/STMicroelectronics/en.stm32cubeprg-*/STM32CubeProgrammer /usr/local/bin/
+        ~~~
+        > 3 .Execute o arquivo de instalação usando o comando abaixo e depois siga as instruções na tela para concluir a instalação.
+        ~~~bash
+        cd /opt/STMicroelectronics/en.stm32cubeprg-*
         sudo ./SetupSTM32CubeProgrammer-*.linux
         ~~~
-        > 3. Para iniciar, navegue até o diretório de instalação e execute o arquivo "STM32CubeProgrammer".
+        > 4. Para iniciar, navegue até o diretório de instalação e execute o arquivo "STM32CubeProgrammer".
 
 - Usando o Arduino IDE:
     1. Considerando que a IDE já está instalada corretamente, adicione nas preferencias o link para o repositorio das placas.
